@@ -1,16 +1,16 @@
-![Uploading 138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif…]()
+
 <h1 align="center">Hi 👋, I'm Anant Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer.</h3>
+👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on **Web Development Projects.**
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+🌱   Learning more about Web, Making Website and Web Apps.
+✍️   Pursuing Web Design and Gaming as hobbies/side hustles.
+🔭 I’m currently working on **Web Development Projects.**
+🌱 I’m currently learning **React JS**
+📫 How to reach me **anantchauhan.2104@gmail.com**
+⚡ Fun fact **I think I am Funny**
 
-- 🌱 I’m currently learning **React JS**
-
-- 📫 How to reach me **anantchauhan.2104@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
