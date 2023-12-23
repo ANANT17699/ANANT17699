@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Anant Chauhan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-👨🏻‍💻  About Me
+👨🏻‍💻  About Me<br>
 
-🤔   Exploring new technologies and developing software solutions and quick hacks.
-🌱   Learning more about Web, Making Website and Web Apps.
-✍️   Pursuing Web Design and Gaming as hobbies/side hustles.
-🔭 I’m currently working on **Web Development Projects.**
-🌱 I’m currently learning **React JS**
-📫 How to reach me **anantchauhan.2104@gmail.com**
-⚡ Fun fact **I think I am Funny**
+🤔   Exploring new technologies and developing software solutions and quick hacks.<br>
+🌱   Learning more about Web, Making Website and Web Apps.<br>
+✍️   Pursuing Web Design and Gaming as hobbies/side hustles.<br>
+🔭 I’m currently working on **Web Development Projects.**<br>
+🌱 I’m currently learning **React JS**<br>
+📫 How to reach me **anantchauhan.2104@gmail.com**<br>
+⚡ Fun fact **I think I am Funny**<br>
 
 <p align="left">
 </p>
