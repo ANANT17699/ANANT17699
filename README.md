@@ -1,3 +1,4 @@
+https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif
 <h1 align="center">Hi 👋, I'm Anant Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
