@@ -1,15 +1,15 @@
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9].(C:\Users\AnanT_Chauhan\Desktop)
+
 <h1 align="center">Hi 👋, I'm Anant Chauhan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 👨🏻‍💻  About Me<br>
 <ul>
 <li>🤔   Exploring new technologies and developing software solutions and quick hacks.</li>
 <li>🌱   Learning more about Web, Making Website and Web Apps.</li>
-<li>✍️   Pursuing Web Development and Gaming as hobbies/side hustles.</li>
-<li>🔭   I’m currently working on **Web Development Projects.**</li>
-<li>🌱   I’m currently learning **React JS**</li>
-<li>📫   How to reach me **anantchauhan.2104@gmail.com**</li>
-<li>⚡   Fun fact **I think I am Funny**</li>
+<li>✍️   Pursuing Web Development and Gaming as hobbies.</li>
+<li>🔭   I’m currently working on Web Development Projects.</li>
+<li>🌱   I’m currently learning React JS</li>
+<li>📫   How to reach me anantchauhan.2104@gmail.com</li>
+<li>⚡   Fun fact marI think I am Funny</li>
 </ul>
 <p align="left">
 </p>
