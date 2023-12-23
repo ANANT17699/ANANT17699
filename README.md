@@ -12,7 +12,7 @@
 <li>🔭   I’m currently working on Web Development Projects.</li>
 <li>🌱   I’m currently learning React JS</li>
 <li>📫   How to reach me anantchauhan.2104@gmail.com</li>
-<li>⚡   Fun fact marI think I am Funny</li>
+<li>⚡   Fun fact I think I am Funny</li>
 </ul>
 <p align="left">
 </p>
