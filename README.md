@@ -1,4 +1,5 @@
-<img url="![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/ANANT17699/ANANT17699/assets/137717215/1915128c-1ea3-4bcd-864b-a30f4eaa9211)">
+![Uploading 225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif…]()
+
 <h1 align="center">Hi 👋, I'm Anant Chauhan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 👨🏻‍💻  About Me<br>
