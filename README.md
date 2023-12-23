@@ -1,15 +1,15 @@
-
+<img url="![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://github.com/ANANT17699/ANANT17699/assets/137717215/1915128c-1ea3-4bcd-864b-a30f4eaa9211)">
 <h1 align="center">Hi 👋, I'm Anant Chauhan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 👨🏻‍💻  About Me<br>
 <ul>
 <li>🤔   Exploring new technologies and developing software solutions and quick hacks.</li>
 <li>🌱   Learning more about Web, Making Website and Web Apps.</li>
-<li>✍️   Pursuing Web Design and Gaming as hobbies/side hustles.</li>
-<li>🔭 I’m currently working on **Web Development Projects.**</li>
-<li>🌱 I’m currently learning **React JS**</li>
-<li>📫 How to reach me **anantchauhan.2104@gmail.com**</li>
-<li>⚡ Fun fact **I think I am Funny**</li>
+<li>✍️   Pursuing Web Development and Gaming as hobbies/side hustles.</li>
+<li>🔭   I’m currently working on **Web Development Projects.**</li>
+<li>🌱   I’m currently learning **React JS**</li>
+<li>📫   How to reach me **anantchauhan.2104@gmail.com**</li>
+<li>⚡   Fun fact **I think I am Funny**</li>
 </ul>
 <p align="left">
 </p>
