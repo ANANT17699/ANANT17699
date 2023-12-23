@@ -1,4 +1,7 @@
-file:///C:/Users/AnanT_Chauhan/Desktop/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/ANANT17699/ANANT17699/assets/137717215/ae3f892a-9791-45fc-8e7e-9af135fa36cd)
+
+
+
 <h1 align="center">Hi 👋, I'm Anant Chauhan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 👨🏻‍💻  About Me<br>
