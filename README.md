@@ -10,7 +10,7 @@
 <li>🌱   Learning more about Web, Making Website and Web Apps.</li>
 <li>✍️   Pursuing Web Development and Gaming as hobbies.</li>
 <li>🔭   I’m currently working on Web Development Projects.</li>
-<li>🌱   I’m currently learning React JS and MongoDB</li>
+<li>🌱   I’m currently learning more about backend development.</li>
 <li>📫   How to reach me anantchauhan.2104@gmail.com</li>
 <li>⚡   Fun fact I think I am Funny</li>
 </ul>
