@@ -7,12 +7,11 @@
 👨🏻‍💻  About Me<br>
 <ul>
 <li>🤔   Exploring new technologies and developing software solutions and quick hacks.</li>
-<li>🌱   Learning more about Web, Making Website and Web Apps.</li>
-<li>✍️   Pursuing Web Development and Gaming as hobbies.</li>
+<li>🌱   Learning more about Java, Web, Making Website and Software.</li>
+<li>✍️   Pursuing Web Development and Chess as hobbies.</li>
 <li>🔭   I’m currently working on new Web Development Projects.</li>
 <li>🌱   Currently learning more about backend development.</li>
 <li>📫   How to reach me anantchauhan.2104@gmail.com</li>
-<li>⚡   Fun fact I think I am Funny</li>
 </ul>
 <p align="left">
 </p>
